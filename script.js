@@ -19,7 +19,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Pesquisando mais sobre essa ferramenta de chat ve que se usado da maneira correta pode ser bastante util. Qual atitude você toma?",
+        enunciado: "Pesquisando mais sobre essa ferramenta de chat vê que se usado da maneira correta pode ser bastante util. Qual atitude você toma?",
         alternativas: [
             {
                 texto: "Decide usar a ferramenta para montar um cronograma para sua semana.",
@@ -32,7 +32,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Apos o uso dessa tecnologia e ver o que ela proporciona, o que vocer faz?",
         alternativas: [
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
@@ -45,20 +45,20 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Você vê o implantamento das IAs no seu local de trabalho algumas semanas depois de descobrir sobre elas. Qual sua decisão??",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "Defende sua aplicação.",
+                afirmacao: "Será de grande ajuda, pode acelerar diversas demandandas dentro da empresa."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                texto: "E contra sua aplicação.",
+                afirmacao: "Vai acabar gerando um grande numero de desempregos na empresa, e muitas pessoas não conseguirão novas vagas no fututro, gerando mais desemprego!"
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "Sobre uso da IA e seu chat na empresa. O que você faz? ",
         alternativas: [
             {
                 texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
